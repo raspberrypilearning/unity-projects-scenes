@@ -1,4 +1,4 @@
-Om een game of app in Unity te maken moet je eerst een project maken. Terwijl je werkt, voeg je aan je project alle elementen toe die je nodig hebt voor je spel of toepassing.
+Om een game of app in Unity te maken moet je eerst een project maken. As you work you will add to your project all of the assets that you need for your game or application.
 
 Scènes zijn elementen binnen een project. Wanneer je een nieuw project maakt, wordt er een 'SampleScène' geopend waarmee je kunt werken. Scènes zijn waar je je content ontwikkelt.
 
