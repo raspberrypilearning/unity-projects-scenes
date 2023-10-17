@@ -1,4 +1,4 @@
-To start making a game or application in Unity, you will need to create a project. As you work you will add to your project all of the assets that you need for your game or applicaiton. 
+To start making a game or application in Unity, you will need to create a project. As you work you will add to your project all of the assets that you need for your game or application. 
 
 Scenes are assets within a project. When you create a new project it opens a 'SampleScene' for you to work with. Scenes are where you develop your content. 
 
