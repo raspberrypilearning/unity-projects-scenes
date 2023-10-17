@@ -1,4 +1,4 @@
-To start making a game or application in Unity, you will need to create a project. Au fur et à mesure de ton travail, tu ajouteras à ton projet tous les éléments dont tu as besoin pour ton jeu ou ton application.
+To start making a game or application in Unity, you will need to create a project. As you work you will add to your project all of the assets that you need for your game or application.
 
 Les scènes sont des assets dans un projet. Lorsque tu crées un nouveau projet, il ouvre une « SampleScene » avec laquelle tu peux travailler. Les scènes sont l'endroit où tu développes ton contenu.
 
